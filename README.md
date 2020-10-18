@@ -1,1 +1,1 @@
-# Cubical is a softuni project that i made in JS Back-End course
+# Cubical is a project that i made for softuni in JS Back-End course
